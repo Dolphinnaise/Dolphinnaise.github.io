@@ -1,3 +1,5 @@
+//в рот ебал гит
+
 window.addEventListener('DOMContentLoaded', function () {
 
    // Tabs
